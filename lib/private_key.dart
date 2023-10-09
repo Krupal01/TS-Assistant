@@ -1,1 +1,1 @@
-const OPEN_AI_KEY = "sk-klbumMieTkCpogPcChQAnBrT3BlbkFJz14Y5oUCdWmJYgtDyHEL";
+const OPEN_AI_KEY = "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";
